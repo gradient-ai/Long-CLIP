@@ -4,6 +4,9 @@ This repository is the official implementation of Long-CLIP
 **Long-CLIP: Unlocking the Long-Text Capability of CLIP**\
 [Beichen Zhang](https://beichenzbc.github.io), [Pan Zhang](https://panzhang0212.github.io/), [Xiaoyi Dong](https://lightdxy.github.io/), [Yuhang Zang](https://yuhangzang.github.io/), [Jiaqi Wang](https://myownskyw7.github.io/)
 
+[![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/github/gradient-ai/Long-CLIP?machine=Free-GPU)
+
+
 ## 💡 Highlights
 - 🔥 **Long Input length** Increase the maximum input length of CLIP from **77** to **248**.
 - 🔥 **Strong Performace** Improve the R@5 of long-caption text-image retrieval by **20%** and traditional text-image retrieval by **6%**.
